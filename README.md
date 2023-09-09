@@ -14,6 +14,7 @@ https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/9%20задание%20202
 
 Скачала SQL Server Management Studio 
 ![image](https://github.com/OlgaChubova205/DemoEkzamen/assets/112687883/09dcc1d0-31b8-42cc-a71e-3fa8919a1bb1)
+![image](https://github.com/OlgaChubova205/DemoEkzamen/assets/112687883/8f0e32e3-8a39-47ee-8fc8-c1eac59c8d05)
 
 
 
