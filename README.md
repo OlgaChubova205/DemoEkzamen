@@ -12,6 +12,8 @@ https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/9%20задание%20202
 3. Разработать диаграмму вариантов использования системы.
 4. Разработать ER-диаграмму.
 
+Скачала SQL Server Management Studio 
+![image](https://github.com/OlgaChubova205/DemoEkzamen/assets/112687883/09dcc1d0-31b8-42cc-a71e-3fa8919a1bb1)
 
 
 
