@@ -1,0 +1,29 @@
+﻿<Window x:Class="Turagenstvo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Turagenstvo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="LightPink" FontFamily="Vivaldi">
+    <Grid>
+        <Grid.ColumnDefinitions>
+
+        </Grid.ColumnDefinitions>
+       
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <Image Height="auto" Width="auto" Source="/Resourses/logo.png" />
+            <TextBlock HorizontalAlignment="Center" FontSize="10" FontFamily ="Segoe UI Semibold" Foreground="Blue">Туристическрое агенство</TextBlock>
+            <Border Background="AliceBlue"></Border>
+            <Button Click="Back-Click" Foreground="White" Background="Blue" Width="100" Height="50" Margin="40, 0, 0, 0">Авторизация</Button>
+        </StackPanel>
+        
+                
+                
+
+    </Grid>
+</Window>

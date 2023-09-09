@@ -1,0 +1,15 @@
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\bin\Debug\Turagenstvo.exe.config
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\bin\Debug\Turagenstvo.exe
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\bin\Debug\Turagenstvo.pdb
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\Turagenstvo.csproj.AssemblyReference.cache
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\MainWindow.g.cs
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\App.g.cs
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\Turagenstvo_MarkupCompile.cache
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\Turagenstvo_MarkupCompile.lref
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\MainWindow.baml
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\Turagenstvo.g.resources
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\Turagenstvo.Properties.Resources.resources
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\Turagenstvo.csproj.GenerateResource.cache
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\Turagenstvo.csproj.CoreCompileInputs.cache
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\Turagenstvo.exe
+D:\4 курс\DemoEkzamen\Каркас приложения\Turagenstvo\obj\Debug\Turagenstvo.pdb
